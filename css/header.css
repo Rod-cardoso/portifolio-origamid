@@ -51,7 +51,7 @@
     padding: 20px;
   }
 
-  .header a {
+  .header a:not(.logo-name){
     background: #f5f5f5;
     border-radius: 4px;
   }
